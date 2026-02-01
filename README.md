@@ -94,7 +94,7 @@ The following are the total software sales across all platforms:
 
 While the handheld games industry sold almost two billion units, it never reached the heights of the home console industry.
 
-Home console sales (blue) were only contested by the handheld market (green) in the mid 2000s
+Home console sales (blue) were only contested by the handheld market (green) in the early 1990s and mid 2000s
 
 ![vg_platform_type_sales](/images/vg_pt_sales.png)
 
